@@ -1,18 +1,12 @@
 {
-  "name": "@opus-fi/sdk",
+  "name": "@piggycoin/sdk",
   "license": "MIT",
-  "version": "1.0.9",
-  "description": "🛠 An SDK for building applications on top of Opus.",
+  "version": "0.1.13",
+  "description": "🛠 An SDK for building applications on top of piggyswap.",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
   "files": [
     "dist"
-  ],
-  "repository": "https://github.com/opus-fi/opus-sdk.git",
-  "keywords": [
-    "uniswap",
-    "ethereum",
-    "opus"
   ],
   "module": "dist/sdk.esm.js",
   "scripts": {
